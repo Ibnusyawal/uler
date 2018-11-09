@@ -1,6 +1,3 @@
-# apa lo tega gan 
-# recode aja monggo gan ekekek
-
 import random
 import curses
 
