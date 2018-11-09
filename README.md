@@ -1,2 +1,2 @@
-# uler
-snake game with python2
+# game ludo king bang
+# menggunakan python2 ya gan hehe
